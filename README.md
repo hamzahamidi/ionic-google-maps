@@ -1,3 +1,3 @@
-# mapapp
-A simple Ionic 2 project using google maps api 
+# ionic-google-maps 
+A simple Ionic 3 project using google maps api 
 Implementation of directions
