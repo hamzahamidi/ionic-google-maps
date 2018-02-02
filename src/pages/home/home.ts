@@ -1,5 +1,5 @@
 import { Component, ViewChild } from '@angular/core';
-import { NavController } from 'ionic-angular';
+import { NavController, ElementRef } from 'ionic-angular';
 import { Geolocation } from '@ionic-native/geolocation';
 
 declare var google;
