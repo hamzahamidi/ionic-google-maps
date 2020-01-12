@@ -74,9 +74,10 @@
   version "3.4.2"
   resolved "https://registry.yarnpkg.com/@ionic-native/splash-screen/-/splash-screen-3.4.2.tgz#3ce378a3413bab8a0cd4cfd5029c3fadd9a6774c"
 
-"@ionic-native/status-bar@3.4.2":
-  version "3.4.2"
-  resolved "https://registry.yarnpkg.com/@ionic-native/status-bar/-/status-bar-3.4.2.tgz#119c478d3ba897490a82fa0f37a9af2ff3948f56"
+"@ionic-native/status-bar@3.14.0":
+  version "3.14.0"
+  resolved "https://registry.yarnpkg.com/@ionic-native/status-bar/-/status-bar-3.14.0.tgz#30ee1bc8a34895fb261b1e3d58fa30fb188857df"
+  integrity sha1-MO4byKNIlfsmGx49WPow+xiIV98=
 
 "@ionic/app-scripts@3.1.0":
   version "3.1.0"
