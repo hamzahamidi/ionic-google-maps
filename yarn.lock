@@ -70,9 +70,10 @@
   version "4.5.3"
   resolved "https://registry.yarnpkg.com/@ionic-native/geolocation/-/geolocation-4.5.3.tgz#18624b1f0fea844a61e668472b0ec51bb0511883"
 
-"@ionic-native/splash-screen@3.4.2":
-  version "3.4.2"
-  resolved "https://registry.yarnpkg.com/@ionic-native/splash-screen/-/splash-screen-3.4.2.tgz#3ce378a3413bab8a0cd4cfd5029c3fadd9a6774c"
+"@ionic-native/splash-screen@3.14.0":
+  version "3.14.0"
+  resolved "https://registry.yarnpkg.com/@ionic-native/splash-screen/-/splash-screen-3.14.0.tgz#f864bfbd7f8577743a0301e7bec781316febc309"
+  integrity sha1-+GS/vX+Fd3Q6AwHnvseBMW/rwwk=
 
 "@ionic-native/status-bar@3.4.2":
   version "3.4.2"
